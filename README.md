@@ -17,14 +17,20 @@ What I Learned?
 Throughout this project, I gained invaluable experience in:
 
 Python programming: Building the control logic for the robot arm.
+
 Flask: Developing a lightweight server for communication between the object detection system and the robot arm.
+
 Pico Microcontroller: Programming the hardware to execute precise movements.
+
 Team Collaboration: Working closely with other developers to integrate software and hardware components seamlessly.
 
 What Makes This Project Stand Out?
 
 Integration of Object Detection: The system uses a robust object detection model to classify items in real time.
+
 Dynamic Movement: The robot arm is highly responsive and moves objects to specified locations with accuracy.
+
 Full-Stack Implementation: Combines Python, Flask, and hardware programming for a comprehensive solution.
+
 Real-World Applicability: Demonstrates how automation can solve practical problems in various industries.
 
